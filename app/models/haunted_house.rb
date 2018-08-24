@@ -1,2 +1,2 @@
-class HauntedHouses < ActiveRecord::Base 
-end 
+class HauntedHouses < ActiveRecord::Base
+end
